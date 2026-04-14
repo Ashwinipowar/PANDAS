@@ -29,3 +29,6 @@ print(df.describe())
 # max    44.000000  300000.000000    93.000000
 
 #this kind of hame o/p milega
+
+#mean hame ik avg value deta hai pure values ka
+
