@@ -35,4 +35,9 @@ print(df.describe())
 # matlb ke std deiation large hai
 # std main jitni variation utna values std is klarge
 
+# 25%    24.500000   22000.000000    57.250000
+# this is means first quarter of data
+#
+
+
 
