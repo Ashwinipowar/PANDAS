@@ -31,4 +31,8 @@ print(df.describe())
 #this kind of hame o/p milega
 
 #mean hame ik avg value deta hai pure values ka
+# std hota hai small and large matlb jo avg kr close hai matlab value avg se kafi dur haiu
+# matlb ke std deiation large hai
+# std main jitni variation utna values std is klarge
+
 
