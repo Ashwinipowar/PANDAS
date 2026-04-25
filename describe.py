@@ -37,7 +37,8 @@ print(df.describe())
 
 # 25%    24.500000   22000.000000    57.250000
 # this is means first quarter of data
-#
+# haya min max se pata chalta hai sabse kam salary kon le raha hai
+# and sabse jyada salary kon le raha hai
 
 
 
